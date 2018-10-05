@@ -2,6 +2,8 @@
 
 Simple Ethereum Smart Contract and Daap Demo.  Part of the walk through for my Programming the Ethereum Blockchain talk.
 
+Presentation at https://1drv.ms/p/s!AhWIj6rLlMGeyJBptwoDt997uinGdA
+
 To get up and running, follow the dependency installations @ https://github.com/jzablocki/crypto-hot-or-not.
 
 ```
